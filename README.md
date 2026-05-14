@@ -11,6 +11,8 @@
    - `git add .`
    - `git commit -m "fix: corregir division por cero en promedios"`
    - `git push`
+  
+5. This needs to detail the Fork functionality 
 
 ---
 *Organizado por: Lucas Brown & Dante Quezada* 
