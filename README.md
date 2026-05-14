@@ -19,9 +19,9 @@ Abre la terminal en VS Code y descarga tu copia (reemplaza con tu usuario de Git
 
 **4. Guardar y Subir (Commit & Push):**
 Abre la terminal de VS Code y ejecuta:
-`git add .`
-`git commit -m "fix: corregir division por cero en promedios"`
-`git push`
+- `git add .`
+- `git commit -m "fix: corregir division por cero en promedios"`
+- `git push`
 
 **5. El Rescate Final (Pull Request):**
 Vuelve a tu repositorio en GitHub.com. Verás un botón verde o un mensaje que dice **"Compare & pull request"** (o "Contribute"). Haz clic ahí para enviarme tu solución. ¡Acabas de hacer tu primera contribución profesional al código de otra persona!
