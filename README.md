@@ -23,6 +23,8 @@ Abre la terminal de VS Code y ejecuta:
 - `git commit -m "fix: corregir division por cero en promedios"`
 - `git push`
 
+woa woa owa
+
 **5. El Rescate Final (Pull Request):**
 Vuelve a tu repositorio en GitHub.com. Verás un botón verde o un mensaje que dice **"Compare & pull request"** (o "Contribute"). Haz clic ahí para enviarme tu solución. ¡Acabas de hacer tu primera contribución profesional al código de otra persona!
 
